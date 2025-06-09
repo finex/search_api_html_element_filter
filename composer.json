@@ -3,8 +3,8 @@
     "description": "Includes a Search API preprocess plugin that can be used to removed certain elements from markup before it is indexed",
     "type": "drupal-module",
     "require": {
-        "symfony/dom-crawler": "^3.4|^4.0|^5.0|^6.0",
-        "symfony/css-selector": "^2.0|^3.4|^4.0|^5.0|^6.0",
-        "drupal/search_api": "~1.26"
+        "symfony/dom-crawler": "^3.4|^4.0|^5.0|^6.0|^7.0",
+        "symfony/css-selector": "^2.0|^3.4|^4.0|^5.0|^6.0|^7.0",
+        "drupal/search_api": "~1.38"
     }
 }
