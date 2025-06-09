@@ -1,5 +1,5 @@
 {
-    "name": "drupal/search_api_html_element_filter",
+    "name": "finex/search_api_html_element_filter",
     "description": "Includes a Search API preprocess plugin that can be used to removed certain elements from markup before it is indexed",
     "type": "drupal-module",
     "require": {
